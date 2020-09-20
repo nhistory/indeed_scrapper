@@ -9,3 +9,7 @@ Web scrapper for job posting in indeed.ca and jobbank.ca (2020.9)
 * Python
 * Beautifulsoup, Selenium
 * Git, Github
+
+## IDE
+
+* Visual Studio Code
